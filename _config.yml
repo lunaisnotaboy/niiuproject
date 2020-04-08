@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Luna"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-picture.png"
   bio    : "Developer of the Nii U Project."
   links:
     - label: "Website"
