@@ -17,6 +17,7 @@ title: Nii U Team
 email: hello@banama.digital
 description: "The official website for the Nii U Project."
 url: "https://banama.digital"
+repository: "lunaisnotaboy/niiuproject"
 
 twitter_username: 
 github_username: niiuteam
@@ -35,7 +36,6 @@ timezone: America/Indiana/Indianapolis # https://en.wikipedia.org/wiki/List_of_t
 comments:
   provider               : "utterances" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   utterances:
-    repo                 : "lunaisnotaboy/niiuproject"
     theme                : "github-dark" # "github-light" (default), "github-dark"
     issue_term           : "pathname" # "pathname" (default)
 
