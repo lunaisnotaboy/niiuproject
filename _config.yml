@@ -36,7 +36,7 @@ timezone: America/Indiana/Indianapolis # https://en.wikipedia.org/wiki/List_of_t
 comments:
   provider               : "utterances" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   utterances:
-    theme                : "github-dark" # "github-light" (default), "github-dark"
+    theme                : "dark-blue" # "github-light" (default), "github-dark"
     issue_term           : "pathname" # "pathname" (default)
 
 include:
